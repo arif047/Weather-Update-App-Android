@@ -1,4 +1,4 @@
-package com.sandipbhattacharya.weatherupdate;
+package com.arifcodes.weatherupdate;
 
 import android.graphics.Color;
 import android.os.Bundle;
